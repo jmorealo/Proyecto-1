@@ -34,5 +34,10 @@
             <input type="submit" value="Enviar">
         </form>
     </main>
+
+    <footer>
+        <h4>Hecho por Jose Maria</span></h4>
+    </footer>
 </body>
 </html>
+
