@@ -36,6 +36,7 @@ main {
     background-color: white;
 }
 
+
 /* Letras de texto */
 p{
     text-align: justify;
@@ -71,6 +72,9 @@ input[type="submit"] {
 
 input[type="submit"]:hover {
     background-color: #555;
+}
+h4{
+ text-align: center;
 }
 
 /* Movil */
